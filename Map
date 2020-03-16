@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff40",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Comment": "Start point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.89571118354797,
+          2.3893270756422815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff40",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Comment": "Second point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19948482513428,
+          4.436568427715557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff40",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Comment": "Third point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.574951171875,
+          6.217694934618752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff40",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Comment": "Fifth point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.979248046875,
+          56.48676175249086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff40",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Comment": "Sixth point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.023681640625,
+          55.01227627898974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff40",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Comment": "Seventh point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6611328125,
+          55.751849391735284
+        ]
+      }
+    }
+  ]
+}
