@@ -10,3 +10,7 @@ __В широком смысле слова, образование — проц
 (https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 
 ##### ![alt text](https://image.mel.fm/i/d/dKiYat2gSv/590.png "New ideas")
+
+
+
+> Education is the passport to the future, for tomorrow belongs to those who prepare for it today.
