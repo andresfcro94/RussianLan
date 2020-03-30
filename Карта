@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "Comment": "Start point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.09552192687987,
+          54.84431348349411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "Comment": "First stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.10904026031494,
+          54.84295746315025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff80",
+        "marker-size": "medium",
+        "marker-symbol": "pharmacy",
+        "Comment": "Second stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0954897403717,
+          54.840047580047994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Comment": "End point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.09127867221832,
+          54.84385015592756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.0954360961914,
+            54.84452043475496
+          ],
+          [
+            83.0976676940918,
+            54.84229642532282
+          ],
+          [
+            83.10916900634766,
+            54.843186043804636
+          ],
+          [
+            83.1112289428711,
+            54.841060811562336
+          ],
+          [
+            83.10054302215576,
+            54.83626627199632
+          ],
+          [
+            83.09560775756836,
+            54.840121719801886
+          ],
+          [
+            83.09144496917725,
+            54.8440015101844
+          ]
+        ]
+      }
+    }
+  ]
+}
