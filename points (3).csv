@@ -1,0 +1,5 @@
+marker-color,marker-size,marker-symbol,Comment,lon,lat
+#ff0000,medium,bicycle,Start point,83.09552192687987,54.84431348349411
+#ffff00,medium,shop,First stop,83.10904026031494,54.84295746315025
+#80ff80,medium,pharmacy,Second stop,83.0954897403717,54.840047580047994
+#00ff00,medium,college,End point,83.09127867221832,54.84385015592756
