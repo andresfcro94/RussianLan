@@ -32,3 +32,6 @@ __В широком смысле слова, образование — проц
 Маршрутка начинается в Общежитии. Из общежитии в университет надо пройти через пешеход и перейти улицу пираговы. Дальше из университета в ...  
 
 (https://gist.github.com/dae1ab4025bfc4c2ae6fdf35844d74bf)
+
+
+<iframe src="https://marvelapp.com/238je4bg?emb=1&iosapp=false&frameless=false" width="390" height="735" allowTransparency="true" frameborder="0"></iframe>
